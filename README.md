@@ -19,6 +19,8 @@ See online doc : https://help.github.com/articles/set-up-git
 - git config --global user.email alfred.almendra@gmail.com
 - git config --get-regexp user.*
 
+If behind a proxy : set https_proxy=http://username:password@proxyServer:proxyPortNumber
+
 ## First draft of front-end-sample
 
 - mkdir front-end-sample
